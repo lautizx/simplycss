@@ -1,10 +1,4 @@
-# 
-  ____                   __  __    ____      _      __   __       ____  ____    ____     
- / __"| u      ___     U|' \/ '|uU|  _"\ u  |"|     \ \ / /    U /"___|/ __"| u/ __"| u  
-<\___ \/      |_"_|    \| |\/| |/\| |_) |/U | | u    \ V /     \| | u <\___ \/<\___ \/   
- u___) |       | |      | |  | |  |  __/   \| |/__  U_|"|_u     | |/__ u___) | u___) |   
- |____/>>    U/| |\u    |_|  |_|  |_|       |_____|   |_|        \____||____/>>|____/>>  
-  )(  (__).-,_|___|_,-.<<,-,,-.   ||>>_     //  \\.-,//|(_      _// \\  )(  (__))(  (__) 
- (__)      \_)-' '-(_/  (./  \.) (__)__)   (_")("_)\_) (__)    (__)(__)(__)    (__)      
+# SimplyCSS
 
-
+SimplyCSS is a Framework which is fancier than others 😄.
+It contains gradients for your page to be prettier 🤑, 30+ background and text gradients and a variety of fonts incorporated to stop searching a font and incorporating it every time you want to use it.
